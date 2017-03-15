@@ -1,0 +1,10 @@
+PODS:
+  - YCameraView (1.1.0)
+
+DEPENDENCIES:
+  - YCameraView (~> 1.1.0)
+
+SPEC CHECKSUMS:
+  YCameraView: 0e52a0ceaa9310c6e92002b92c1b4560adc18454
+
+COCOAPODS: 0.39.0
